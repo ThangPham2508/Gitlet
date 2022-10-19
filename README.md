@@ -8,3 +8,7 @@ The main functionality that Gitlet supports is:
 3. Viewing the history of your backups. In Gitlet, you view this history in something called the log.
 4. Maintaining related sequences of commits, called branches.
 5. Merging changes made in one branch into another.
+
+Files I implemented: gitlet/Main.java - gitlet/Commit.java - gitlet/Persistance.java - gitlet/Repository.java - gitlet/Staging.java
+
+Project initial code can be found here at proj2 folder: https://github.com/Berkeley-CS61B/skeleton-sp21.git
