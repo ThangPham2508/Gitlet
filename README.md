@@ -1,5 +1,7 @@
 # Gitlet
 
+Project Specifications: https://sp21.datastructur.es/materials/proj/proj2/proj2
+
 A version-control system that mimics some of the basic features of the popular system Git.
 
 The main functionality that Gitlet supports is:
